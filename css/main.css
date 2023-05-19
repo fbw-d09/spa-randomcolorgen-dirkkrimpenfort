@@ -1,0 +1,36 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.color-box {
+    display: inline-block;
+    width: 30%;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: right;
+}
+
+
+
+
+.controls {
+    margin-top: 20px;
+    ;
+}
+
+#add-colors-btn {
+    background-color: chartreuse;
+    height: 45px;
+    border-radius: 5px;
+}
+
+#num-colors {
+    height: 40px;
+    border-radius: 5px;
+}
+  
